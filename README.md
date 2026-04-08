@@ -1,4 +1,4 @@
-# Hi, I'm Jose Zelaya (Leo) 👋
+# Hi, I'm Jose Z.👋
 
 **Inventor · Security Engineer · Edge AI Developer · AI Automation Builder**
 
