@@ -85,7 +85,6 @@ Raspberry Pi 5 (8GB) — Running 24/7
 - 🔨 ZeferoX beta — first real CVE detections on live Linux systems
 - 🔗 Polygon correction-block smart contract deployment
 - 🤖 ZeferoPulse Hailo-10H anomaly detection layer
-- 🌐 FLCTR.com — Florida contractor lead gen network
 - 📋 Non-provisional patent strategy (deadline: March 24, 2027)
 
 ---
