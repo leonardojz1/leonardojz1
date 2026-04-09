@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 I build AI-powered systems at the intersection of **security**, **automation**, and **edge computing**.
-Two active projects — a patented cybersecurity platform and a live AI lead generation network running **24/7 on a Raspberry Pi 5**.
+Two active projects — a patented cybersecurity platform and a live AI lead generation network running **24/7.
 
 - 🔒 **Inventor** — ZeferoShield · US Provisional Patent #64/015,161 · Filed March 24, 2026
 - 🤖 **Edge AI** — Hailo-10H NPU (40 TOPS) confirmed working on Debian 13 Trixie
