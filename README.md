@@ -44,7 +44,7 @@ Two active projects — a patented cybersecurity platform and a live AI lead gen
 [![n8n](https://img.shields.io/badge/Automation-n8n-red?style=flat-square)](https://3nj.com)
 [![Cloudflare](https://img.shields.io/badge/Tunnel-Cloudflare-F48120?style=flat-square&logo=cloudflare)](https://3nj.com)
 
-> Fully automated lead scoring and SEO keyword pipeline running on Pi 5 + Docker. Live pilot: Happy Wags Grooming LLC, Bradenton FL. [dog.fullgrooming.com](https://dog.fullgrooming.com)
+> Fully automated lead scoring and SEO keyword pipeline running on Pi 5 + Docker. Live pilot: Happy Wags Grooming LLC, [dog.fullgrooming.com](https://dog.fullgrooming.com)
 
 ---
 
