@@ -91,16 +91,6 @@ Two active projects — a patented cybersecurity platform and a live AI lead gen
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Leonardojz1&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/Leonardojz1)
-
-</div>
-
----
-
 ## 🖥️ Hardware Lab
 
 ```
