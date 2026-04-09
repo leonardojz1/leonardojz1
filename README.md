@@ -119,7 +119,7 @@ Raspberry Pi 5 (8GB) — Running 24/7
 <div align="center">
 
 [![Email](https://img.shields.io/badge/leopc349@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leopc349@gmail.com)
-[![Location](https://img.shields.io/badge/Bradenton,_FL-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://3nj.com)
+[![Location](https://img.shields.io/badge/Tampa_FL-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://3nj.com)
 [![Website](https://img.shields.io/badge/3NJ.com-0f6e56?style=for-the-badge&logo=googlechrome&logoColor=white)](https://3nj.com)
 
 </div>
