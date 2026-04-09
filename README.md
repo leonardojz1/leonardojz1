@@ -83,11 +83,9 @@ Two active projects — a patented cybersecurity platform and a live AI lead gen
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardojz1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=ffffff)](https://github.com/Leonardojz1)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leonardojz1&theme=tokyonight&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)](https://github.com/Leonardojz1)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardojz1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff)](https://github.com/Leonardojz1)
+![Profile Views](https://komarev.com/ghpvc/?username=Leonardojz1&color=0891b2&style=for-the-badge&label=Profile+Views)
 
 </div>
 
