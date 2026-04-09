@@ -5,7 +5,7 @@
 
 <!-- Social badges -->
 [![Patent Pending](https://img.shields.io/badge/Patent-Pending_%2364%2F015%2C161-0891b2?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Leonardojz1/zeferoshield)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josezealaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leoz30111)
 [![Email](https://img.shields.io/badge/Email-leopc349@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leopc349@gmail.com)
 [![3NJ.com](https://img.shields.io/badge/3NJ.com-NorthJet_Media-0f6e56?style=for-the-badge&logo=googlechrome&logoColor=white)](https://3nj.com)
 
