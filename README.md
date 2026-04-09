@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+I'm+Jose+Zelaya+%F0%9F%91%8B;Inventor+%C2%B7+Security+Engineer;Edge+AI+Developer;Open+Source+Founder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+I'm+Jose+%F0%9F%91%8B;Inventor+%C2%B7+Security+Engineer;Edge+AI+Developer;Open+Source+Founder)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 [![Patent Pending](https://img.shields.io/badge/Patent-Pending_%2364%2F015%2C161-0891b2?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Leonardojz1/zeferoshield)
