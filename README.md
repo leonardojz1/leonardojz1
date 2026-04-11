@@ -127,7 +127,7 @@ Raspberry Pi 5 (8GB) — Running 24/7
 
 <div align="center">
 
-*Patent Pending · Application #64/015,161 · © 2026 Jose Zelaya*
+*Patent Pending · Application #64/015,161 · © 2026 Jose Z*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Leonardojz1&color=0891b2&style=flat-square&label=Profile+Views)
 
