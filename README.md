@@ -109,7 +109,6 @@ Raspberry Pi 5 (8GB) — Running 24/7
 - 🔨 ZeferoX beta — fixing 5 compile errors → first working binary
 - 🔗 Polygon correction-block smart contract deployment  
 - 🤖 ZeferoPulse Hailo-10H anomaly detection layer
-- 🌐 FLCTR.com — Florida contractor lead gen network
 - 📋 Non-provisional patent (deadline: March 24, 2027)
 
 ---
